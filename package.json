@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.5",
+    "express-session": "^1.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0"
+  },
+  "name": "tech-blog",
+  "description": "TESTING",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpalileo/tech-blog.git"
+  },
+  "author": "Christopher Palileo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpalileo/tech-blog/issues"
+  },
+  "homepage": "https://github.com/cpalileo/tech-blog#readme"
+}
