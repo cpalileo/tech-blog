@@ -1,12 +1,9 @@
 const router = require("express").Router();
-const { post } = require("../../models");
+const { register } = require("../../models");
 
-// route: /api/coins
 router.get("/", (req, res) => {
-  post
-    .findAll({
-      //attributes of the posts
-    })
+  register
+    .findAll({})
     .then((dbPostData) => res.json(dbPostData))
     .catch((err) => {
       console.log(err);
