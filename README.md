@@ -34,7 +34,7 @@ n/a
 
 ### Link to the GitGub Project
 
-[Link to the repo](http://github.com/github.com/cpalileo/ecommerce-backend/)
+[Link to the repo](http://github.com/github.com/cpalileo/tech-blog/)
 
 ### GitHub Profile
 
